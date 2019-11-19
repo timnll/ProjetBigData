@@ -1,5 +1,5 @@
  # Projet cours de Big Data
-groupe composé de NOUAILLE Timothée, Nicolas VAUVILLIER, Pierre GERARD, Bastien ROBERT, Sébastien COMTE, Ferdinand DUSCHESNES
+groupe composé de NOUAILLE Timothée, Nicolas VAUVILLIER, Pierre GERARD, Bastien ROBERT, Sébastien COMTE, Ferdinand DUCHET-SUCHAUX
 
 
 # Sujet d'étude
